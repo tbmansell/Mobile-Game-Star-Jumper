@@ -82,6 +82,8 @@ local math_round    = math.round
 -- @param event
 ----
 function ledge.eventCollide(self, event)
+    print("COLLIDE")
+    
     local ledge  = self.object
     local object = event.other.object
 

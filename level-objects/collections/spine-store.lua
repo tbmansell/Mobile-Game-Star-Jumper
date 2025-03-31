@@ -232,7 +232,8 @@ end
 -- @return spineObject
 ----
 function spineStore:newStartMarker()
-	return builder:newSpineObject({type="startMarker"}, {jsonName="start-arrow", imagePath="ledges", scale=0.7, animation="Pulse"})
+	--return builder:newSpineObject({type="startMarker"}, {jsonName="start-arrow", imagePath="ledges", scale=0.7, animation="Pulse"})
+	return builder:newSpineObject({type="startMarker"}, {jsonName="TEST", imagePath="TEST", scale=1, animation="run", skin="Player"})
 end
 
 
