@@ -32,7 +32,7 @@
   "startColorRed" : 0.2605973,
   "finishColorVarianceRed" : 0,
   "absolutePosition" : false,
-  "textureFileName" : "landing-smoke.png",
+  "textureFileName" : "images/emmitters/landing-smoke.png",
   "startColorVarianceAlpha" : 0,
   "maxParticles" : 500,
   "finishColorVarianceGreen" : 0,

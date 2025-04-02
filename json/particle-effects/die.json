@@ -32,7 +32,7 @@
   "startColorRed" : 0.9918519,
   "finishColorVarianceRed" : 0,
   "absolutePosition" : false,
-  "textureFileName" : "die.png",
+  "textureFileName" : "images/emmitters/die.png",
   "startColorVarianceAlpha" : 0,
   "maxParticles" : 50,
   "finishColorVarianceGreen" : 0,

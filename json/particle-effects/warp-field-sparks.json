@@ -32,7 +32,7 @@
   "startColorRed" : 0.9992358,
   "finishColorVarianceRed" : 0,
   "absolutePosition" : false,
-  "textureFileName" : "Electric Storm.png",
+  "textureFileName" : "images/emmitters/Electric Storm.png",
   "startColorVarianceAlpha" : 0,
   "maxParticles" : 15,
   "finishColorVarianceGreen" : 0,

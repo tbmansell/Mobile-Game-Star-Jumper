@@ -30,7 +30,7 @@
   "startColorRed" : 0.7823979,
   "finishColorVarianceRed" : 0,
   "absolutePosition" : false,
-  "textureFileName" : "collect-ring.png",
+  "textureFileName" : "images/emmitters/collect-ring.png",
   "startColorVarianceAlpha" : 0.04993207,
   "maxParticles" : 10,
   "finishColorVarianceGreen" : 0,

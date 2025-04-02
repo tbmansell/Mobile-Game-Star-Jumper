@@ -32,7 +32,7 @@
   "startColorRed" : 1,
   "finishColorVarianceRed" : 0,
   "absolutePosition" : false,
-  "textureFileName" : "jump-trail.png",
+  "textureFileName" : "images/emmitters/jump-trail.png",
   "startColorVarianceAlpha" : 0,
   "maxParticles" : 108,
   "finishColorVarianceGreen" : 0,

@@ -32,7 +32,7 @@
   "startColorRed" : 0.8303968,
   "finishColorVarianceRed" : 0,
   "absolutePosition" : false,
-  "textureFileName" : "landing-all.png",
+  "textureFileName" : "images/emmitters/landing-all.png",
   "startColorVarianceAlpha" : 0.5,
   "maxParticles" : 152,
   "finishColorVarianceGreen" : 0,

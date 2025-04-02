@@ -30,7 +30,7 @@
   "startColorRed" : 0.372,
   "finishColorVarianceRed" : 0,
   "absolutePosition" : false,
-  "textureFileName" : "item-collect.png",
+  "textureFileName" : "images/emmitters/item-collect.png",
   "startColorVarianceAlpha" : 0,
   "maxParticles" : 25,
   "finishColorVarianceGreen" : 0,

@@ -32,7 +32,7 @@
   "startColorRed" : 1,
   "finishColorVarianceRed" : 0,
   "absolutePosition" : false,
-  "textureFileName" : "deathflash.png",
+  "textureFileName" : "images/emmitters/deathflash.png",
   "startColorVarianceAlpha" : 0,
   "maxParticles" : 322,
   "finishColorVarianceGreen" : 0,

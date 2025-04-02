@@ -30,7 +30,7 @@
   "startColorRed" : 1,
   "finishColorVarianceRed" : 0,
   "absolutePosition" : false,
-  "textureFileName" : "jetpack-trail.png",
+  "textureFileName" : "images/emmitters/jetpack-trail.png",
   "startColorVarianceAlpha" : 0,
   "maxParticles" : 10,
   "finishColorVarianceGreen" : 0,

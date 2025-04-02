@@ -32,7 +32,7 @@
   "startColorRed" : 0.5310874,
   "finishColorVarianceRed" : 0.6007673,
   "absolutePosition" : false,
-  "textureFileName" : "ufo-trail.png",
+  "textureFileName" : "images/emmitters/ufo-trail.png",
   "startColorVarianceAlpha" : 0,
   "maxParticles" : 100,
   "finishColorVarianceGreen" : 0,

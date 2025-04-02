@@ -30,7 +30,7 @@
   "startColorRed" : 0.4594001,
   "finishColorVarianceRed" : 0,
   "absolutePosition" : false,
-  "textureFileName" : "collectable-sparks.png",
+  "textureFileName" : "images/emmitters/collectable-sparks.png",
   "startColorVarianceAlpha" : 0,
   "maxParticles" : 5,
   "finishColorVarianceGreen" : 0,

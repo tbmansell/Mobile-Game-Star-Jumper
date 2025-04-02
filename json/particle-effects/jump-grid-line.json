@@ -52,7 +52,7 @@
   "startParticleSizeVariance" : 0,
   "tangentialAccelVariance" : -0,
   "tangentialAcceleration" : -0,
-  "textureFileName" : "jump-grid-line.png",
+  "textureFileName" : "images/emmitters/jump-grid-line.png",
   "textureImageData" : "",
-  "yCoordFlipped" : -1,
+  "yCoordFlipped" : -1
 }

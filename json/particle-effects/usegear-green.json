@@ -30,7 +30,7 @@
   "startColorRed" : 0,
   "finishColorVarianceRed" : 0.5356415,
   "absolutePosition" : false,
-  "textureFileName" : "usegear.png",
+  "textureFileName" : "images/emmitters/usegear.png",
   "startColorVarianceAlpha" : 0,
   "maxParticles" : 537,
   "finishColorVarianceGreen" : 0,

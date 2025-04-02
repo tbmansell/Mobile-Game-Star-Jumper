@@ -30,7 +30,7 @@
   "startColorRed" : 0.372,
   "finishColorVarianceRed" : 0,
   "absolutePosition" : false,
-  "textureFileName" : "flare1.png",
+  "textureFileName" : "images/emmitters/flare1.png",
   "startColorVarianceAlpha" : 0,
   "maxParticles" : 10,
   "finishColorVarianceGreen" : 0,

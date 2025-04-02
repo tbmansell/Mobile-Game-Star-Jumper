@@ -32,7 +32,7 @@
   "startColorRed" : 0.8380942,
   "finishColorVarianceRed" : 0,
   "absolutePosition" : false,
-  "textureFileName" : "Lava.png",
+  "textureFileName" : "images/emmitters/Lava.png",
   "startColorVarianceAlpha" : 0,
   "maxParticles" : 10,
   "finishColorVarianceGreen" : 0,
