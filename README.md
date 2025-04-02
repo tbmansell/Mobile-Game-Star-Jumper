@@ -6,7 +6,10 @@ For iOS and Android devices.
 
 Star Jumper is a 2D mobile game supporting iOS and Android, built with the Corona SDK game engine in Lua. It was released on the Android Playstore and Apple Appstore with monetization features.
 
-It is a challenging puzzle-platformer requiring the player to carefully judge how to jump from platform to platform, making use of the in-level or purchased equipment to better your chances.
+It is a challenging puzzle-platformer requiring the player to carefully judge how to navigate the many tricks, rtaps and enemies that await you.
+Jump, swing, climb, bounce, fly, spring, teleport, grapple and magnetise from platform to platform, making use of the in-level or purchased equipment to better your chances. 
+
+When things get tough you may have to freeze or even rewind time!
 
 ## Features
 
