@@ -31,7 +31,7 @@ When things get tough you may have to freeze or even rewind time!
 - Ingame purchase monetization.
 - Building varied cutscenes and in-level orchestrated events.
 - Use of animated skeleton sprites with Spine plugin.
-- Use of particule emitters.
+- Use of particle emitters.
 - Novel approach to defining levels through Lau code.
 - Copy, paste, edit and build your own 2D platform game!
 
